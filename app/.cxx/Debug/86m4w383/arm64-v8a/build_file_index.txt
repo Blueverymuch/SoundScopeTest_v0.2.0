@@ -1,0 +1,2 @@
+C:\JUCE\modules\juce_audio_devices\native\oboe\CMakeLists.txt
+C:\Users\johnny\dsp_test\osc\Builds\Android\app\CMakeLists.txt

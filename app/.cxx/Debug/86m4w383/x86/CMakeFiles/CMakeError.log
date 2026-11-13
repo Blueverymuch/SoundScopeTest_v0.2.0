@@ -1,0 +1,5 @@
+Checking whether the ASM compiler is GNU using "--version" did not match "(GNU assembler)|(GCC)|(Free Software Foundation)":
+Android (13324770, based on r530567d) clang version 19.0.0 (https://android.googlesource.com/toolchain/llvm-project 97a699bf4812a18fb657c2779f5296a4ab2694d2)
+Target: x86_64-w64-windows-gnu
+Thread model: posix
+InstalledDir: C:/Users/johnny/AppData/Local/Android/Sdk/ndk/28.1.13356709/toolchains/llvm/prebuilt/windows-x86_64/bin
