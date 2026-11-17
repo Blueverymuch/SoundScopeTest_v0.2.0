@@ -163,3 +163,5 @@
 14401	16017	8162588147093269	../../../../build/intermediates/cxx/Debug/86m4w383/obj/arm64-v8a/libjuce_jni.so	4c466d97606257f9
 73	11545	8165007806843226	CMakeFiles/juce_jni.dir/C_/Users/johnny/dsp_test/osc/FaustPluginProcessor.cpp.o	23145bd06c84cbbc
 11548	15165	8165007833963392	../../../../build/intermediates/cxx/Debug/86m4w383/obj/arm64-v8a/libjuce_jni.so	4c466d97606257f9
+111	19352	8165874893034553	CMakeFiles/juce_jni.dir/C_/Users/johnny/dsp_test/osc/FaustPluginProcessor.cpp.o	23145bd06c84cbbc
+19354	21138	8165874907655812	../../../../build/intermediates/cxx/Debug/86m4w383/obj/arm64-v8a/libjuce_jni.so	4c466d97606257f9
